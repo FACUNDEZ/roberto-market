@@ -1,1 +1,1 @@
-ahora el texto se actualizo
+ahora el texto se actualizo pero en otro repositorio de desarrollo sin cambiar el texto de la rama main
